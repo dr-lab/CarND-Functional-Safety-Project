@@ -18,4 +18,4 @@ The documentation consists on the following documents
 - [Technical Safety Concept](./04_TechnicalSafetyConcept_LaneAssistance.pdf)
 - [Software Requirements](./05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf)
 
-The documents are in pdf format to facilitate the reading of it, but there versions of them in docx and xlsx format in the case of the hazard analysis and risk assessment.
+The documents are in pdf format to facilitate the reading of it, but there versions of them in .pages and .numbers format (Apple iWork format ) in the case of the hazard analysis and risk assessment.
