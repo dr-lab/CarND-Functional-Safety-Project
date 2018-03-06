@@ -3,7 +3,7 @@ Udacity Self-Driving Car Nanodegree - Functional Safety Project
 
 # Project overview
 
-This project's goal is to learn how tocreate the documentation for the functional safety of a Lane Assistance system to comply with the [Road vehicles - Functional safety : ISO 26262](https://en.wikipedia.org/wiki/ISO_26262). ISO 26262 is an international standard for functional safety on electrical and/or electronic system in production automobiles defined by the International Organization for Standardization (ISO). The Lane Assistance system is part of a [Advanced Driver Assistance System(ADAS)](https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems) with the following functionalities:
+This project's goal is to learn how to create the documentation for the functional safety of a Lane Assistance system to comply with the [Road vehicles - Functional safety : ISO 26262](https://en.wikipedia.org/wiki/ISO_26262). ISO 26262 is an international standard for functional safety on electrical and/or electronic system in production automobiles defined by the International Organization for Standardization (ISO). The Lane Assistance system is part of a [Advanced Driver Assistance System(ADAS)](https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems) with the following functionalities:
 
 - Lane departure warning: To apply an oscillating steering torque to provide the driver a haptic feedback.
 - Lane keeping assistance: To apply the steering torque when active in order to stay in ego lane.
