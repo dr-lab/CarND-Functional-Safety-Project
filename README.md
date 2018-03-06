@@ -24,7 +24,7 @@ The following phases are out of scope:
 
 Udacity provides a seed project with document templates, architectural diagrams and guidance on how to approach the project. Here is the link to that [seed project](https://github.com/udacity/CarND-Functional-Safety-Project)
 
-The documentation consists on the following documents
+The documentation contains following documents
 
 - [Safety Plan](./01_SafetyPlan_LaneAssistance.pdf)
 - [Hazard Analysis and Risk Assessment](./02_HazardAnalysisAndRiskAssessment.pdf)
