@@ -33,4 +33,4 @@ The documentation contains following documents
 - [Software Requirements And Architecture](./05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf)
 
 **Note:**
-Since the [Hazard Analysis and Risk Assessment](./02_HazardAnalysisAndRiskAssessment.pdf) original Number(Apple iWork) file has a very wide table, when export to pdf, table been divided into two pages. So when you check the pdf, for the second part of the columns ("Hazardous Event Classification" and "Determination of ASIL and Safety Goals"), please check the second page.
+Since the [Hazard Analysis and Risk Assessment](./02_HazardAnalysisAndRiskAssessment.pdf) original Number(Apple iWork) file has a very wide table, when export to pdf, table been divided into two pages. So for the second part of the columns ("Hazardous Event Classification" and "Determination of ASIL and Safety Goals"), please check the second page.
